@@ -7,10 +7,16 @@
 - 🥅 2021 Goals: Gradualte with my Bachelor in Computer Science and Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cycle 🚴‍♂️
 
+<br />
+<br />
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+<br />
+<br />
 ### Connect with me:
 
-[<img align="left" alt="https://www.linkedin.com/in/darrenjoyner/" | LinkedIn" width="22px" src="https://img.icons8.com/ultraviolet/40/000000/linkedin-circled--v3.png"/>][linkedin]
-[<img align="left" alt="https://www.instagram.com/darren_joyner_/" | Instagram" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>][instagram]
+
 
 <br />
 <br />
