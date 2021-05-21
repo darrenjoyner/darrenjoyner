@@ -10,11 +10,10 @@
 ### Connect with me:
 
 [<img align="left" alt=" | LinkedIn" width="22px" src=linkedin.png />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src=instagram.png />][instagram]
+[<img align="left" alt=" | Instagram" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>][instagram]
 
 <br />
 <br />
 
-[website]: 
-[instagram]: https://www.instagram.com/darren_joyner_/
+[instagram]: https://www.instagram.com/darren_joyner_/ <br />
 [linkedin]: https://www.linkedin.com/in/darrenjoyner/
