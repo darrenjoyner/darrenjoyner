@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/darrenjoyner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="darrenjoyner" height="30" width="40" /></a>
-<a href="https://instagram.com/darren_joyner_" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram.png" alt="darren_joyner_" height="30" width="40" /></a>
+<a href="https://instagram.com/darren_joyner_" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="darren_joyner_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/darren_r_joyner" target="blank"><img align="center" src="https://img.icons8.com/windows/50/000000/hackerrank.png" alt="darren_r_joyner" height="30" width="40" /></a>
 </p>
 
