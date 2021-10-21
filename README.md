@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **interships, and opportunities to grow!**
 
-- 📫 How to reach me **daaren.r.joyner@gmail.com**
+- 📫 How to reach me **darren.r.joyner@gmail.com**
 
 - 🥅 2021 Goals: Gradualte with my Bachelor in Computer Science and Contribute more to Open Source projects
 
