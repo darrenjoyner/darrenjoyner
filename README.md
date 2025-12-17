@@ -18,7 +18,7 @@ Welcome to my corner of GitHub! 🚀 I'm a passionate software engineer with 4 y
 📧 **Email:** <a href="mailto:darren.r.joyner&#64;gmail&#46;com">darren.r.joyner&#64;gmail&#46;com</a>
 
 <p align="left"> <a href="https://linkedin.com/in/darrenjoyner" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="darrenjoyner" height="30" width="40" /></a>
-<a href="https://instagram.com/darren_joyner_" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="darren_joyner_" height="30" width="40" /></a>
+<a href="https://instagram.com/darren.r_j" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="darren_joyner_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🖥️ Languages and Tools:</h3>
